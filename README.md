@@ -1,5 +1,3 @@
-# calc-project
-This is mine simple calculator project in python that help you for solving many problems.
 # Simple Python Calculator Project
 This is a beginner-friendly Python calculator project that offers a variety of basic and scientific operations via a command-line interface. It's ideal for learning Python programming fundamentals and working with functions, conditionals, loops, and user input.
 ## Features
